@@ -1,4 +1,4 @@
-![banner](https://github.com/HiagoMtz/HiagoMtz/assets/146388190/b280ab7b-002f-4b06-8ba5-6730ef1768f3)
+![BeFunky-design (1)](https://github.com/HiagoMtz/HiagoMtz/assets/146388190/f7733f48-233b-43ec-8054-4f00cdb501b6)
 
  <div>
    <a href="https://github.com/HiagoMtz">
