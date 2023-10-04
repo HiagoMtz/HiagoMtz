@@ -1,5 +1,3 @@
-![banner (1)](https://github.com/HiagoMtz/HiagoMtz/assets/146388190/6a1e8355-1591-4c11-b989-fe9afca44a39)
-
  <div>
    <a href="https://github.com/HiagoMtz">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HiagoMtz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
